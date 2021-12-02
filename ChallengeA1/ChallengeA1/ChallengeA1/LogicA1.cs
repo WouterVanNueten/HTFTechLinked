@@ -19,7 +19,7 @@ namespace ChallengeA1
 
             //Console.WriteLine(startResponse);
 
-            var sampleUrl = "api/path/1/easy/Sample";
+            var sampleUrl = "api/path/1/easy/Puzzle";
             var sampleResponse = await client.GetFromJsonAsync<List<int>>(sampleUrl);
 
             var sampleAnswer = GetAnswer(sampleResponse);

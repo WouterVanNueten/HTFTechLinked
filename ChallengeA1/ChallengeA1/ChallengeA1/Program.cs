@@ -1,2 +1,2 @@
-﻿await ChallengeA1.LogicA1.Logic();
+﻿await Challenges.LogicA2.Logic();
 

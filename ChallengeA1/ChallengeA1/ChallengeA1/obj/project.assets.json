@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vannu\\Desktop\\HTF\\ChallengeA1\\ChallengeA1\\ChallengeA1\\ChallengeA1.csproj",
-      "projectName": "ChallengeA1",
-      "projectPath": "C:\\Users\\vannu\\Desktop\\HTF\\ChallengeA1\\ChallengeA1\\ChallengeA1\\ChallengeA1.csproj",
+      "projectUniqueName": "C:\\Users\\vannu\\Desktop\\HTF\\ChallengeA1\\ChallengeA1\\ChallengeA1\\Challenges.csproj",
+      "projectName": "Challenges",
+      "projectPath": "C:\\Users\\vannu\\Desktop\\HTF\\ChallengeA1\\ChallengeA1\\ChallengeA1\\Challenges.csproj",
       "packagesPath": "C:\\Users\\vannu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\vannu\\Desktop\\HTF\\ChallengeA1\\ChallengeA1\\ChallengeA1\\obj\\",
       "projectStyle": "PackageReference",
